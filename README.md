@@ -16,6 +16,5 @@ frequency, severity, timing, location, and contributing factors.
  
 ## Data Source
 NYC Open Data — NYPD Motor Vehicle Collisions  
-https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95
 
 All done in Microsoft Excel
