@@ -42,10 +42,10 @@ The project investigates where collisions are most frequent, when they happen, w
 
 ## Tools
 
-- **Microsoft Excel** — all data cleaning, analysis, pivot tables, and charts were built entirely in Excel with no additional software.
+- **Microsoft Excel**
 
 ---
 
 ## Data Source
 
-[NYPD Motor Vehicle Collisions — NYC Open Data](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95)
+[NYPD Motor Vehicle Collisions NYC Open Data](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95)
