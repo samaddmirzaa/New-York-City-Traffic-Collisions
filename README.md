@@ -16,7 +16,7 @@ The project investigates where collisions are most frequent, when they happen, w
 | Highest-collision borough | Brooklyn (76,416) |
 | Most dangerous street | Belt Parkway (3,728 incidents) |
 | Leading cause | Driver inattention/distraction |
-| Peak collision window | 3 PM – 6 PM on weekdays |
+| Peak collision window | 3 PM - 6 PM on weekdays |
 
 - **Pedestrians** account for the majority of traffic fatalities across the study period.
 - **Sedans and station wagons** were the most commonly involved vehicle type.
